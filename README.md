@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Ivan 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
+---
+
 ### &#128736; Стек:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,9 +29,9 @@
 
 ---
 
-### GitHub Profile Trophy:
+### Top Languages:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
