@@ -3,18 +3,6 @@
 
 ---
 
-### Profile Summary:
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
-
----
-
-### GitHub Stats:
-
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
-
----
-
 ### Technology Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,12 +30,27 @@
 ---
 
 ### Top Languages:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
+
+---
+
+### Profile Summary:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
+
+---
+
+### GitHub Stats:
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
 
 ---
 
 ### Stats:
 
+#### Profile Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
+
 #### Codewars
 [![codewars](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
+
+---
