@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ivan 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<h1 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)</h1>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
 
 ---
 
@@ -37,7 +37,7 @@
 
 ---
 
-### &#129299; Статистика:
+### Stats:
 
 #### Codewars
 [![Codewarrior Profile Badges](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
