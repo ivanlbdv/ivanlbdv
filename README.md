@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Ivan 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
+<h1 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)</h1>
 
 ---
 
-### &#128736; Стек:
+### Technology Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
