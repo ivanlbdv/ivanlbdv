@@ -8,6 +8,10 @@
   </a>
 </p>
 
+### :man_technologist: About Me:
+
+Python-developer with experience in creating backend-solutions and working with modern development technologies. I strive to apply the acquired knowledge in real projects and develop in the field of backend-development. The current focus is on in-depth study of Python and related technologies, practical application of acquired knowledge, development of teamwork skills, and continuous self-education in the field of modern backend-development technologies.
+
 ---
 
 ### :hammer_and_wrench: Technology Stack:
@@ -36,7 +40,7 @@
 
 ---
 
-### :fire: Stats:
+### :fire: My Stats:
 
 - ##### Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
