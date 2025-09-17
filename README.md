@@ -43,7 +43,7 @@
 
 ---
 
-### Stats:
+### :fire: Stats:
 
 #### Profile Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
