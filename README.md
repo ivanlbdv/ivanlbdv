@@ -30,8 +30,9 @@
 
 ### &#129299; Статистика:
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)]
-[![Link: ](https://www.codewars.com/users/ivanlbdv)]
+![Codewarrior Profile Badges](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)
+
+![Link: ](https://www.codewars.com/users/ivanlbdv)
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=ivanlbdv&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=ivanlbdv&hide=contribs&show_icons=true" />
