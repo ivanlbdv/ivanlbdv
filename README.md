@@ -9,6 +9,12 @@
 
 ---
 
+### GitHub Stats:
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
+
+---
+
 ### Technology Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
