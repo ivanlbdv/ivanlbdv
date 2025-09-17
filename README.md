@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ivan 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-### Contacts:
+### :pen: Contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ivanlbdv)
 
@@ -33,22 +33,18 @@
 
 ---
 
-### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
-
----
-
-### Profile Summary:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
-
----
-
 ### :fire: Stats:
 
-#### Profile Stats:
+- ##### Top Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
+
+- ##### Profile Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
 
-#### Codewars
+- ##### Profile Summary:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
+
+- ##### Codewars
 [![codewars](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
 
 ---
