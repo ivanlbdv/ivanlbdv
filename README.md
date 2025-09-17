@@ -35,20 +35,9 @@
 
 ---
 
-### GitHub Stats:
-
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
-
----
-
 ### &#129299; Статистика:
 
-![Codewarrior Profile Badges](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)   (https://www.codewars.com/users/ivanlbdv)
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=ivanlbdv&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=ivanlbdv&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv&layout=compact" />
-</a>
-</div>
+#### Codewars
+[![Codewarrior Profile Badges](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
+
+---
