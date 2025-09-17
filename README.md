@@ -44,4 +44,4 @@
 ### Stats:
 
 #### Codewars
-[![codewars](https://www.codewars.com/users/ivanlbdv/badges/large)](https://www.codewars.com/users/ivanlbdv)
+[![codewars](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
