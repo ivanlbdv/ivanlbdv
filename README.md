@@ -35,6 +35,12 @@
 
 ---
 
+### GitHub Stats:
+
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
+
+---
+
 ### &#129299; Статистика:
 
 ![Codewarrior Profile Badges](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)   (https://www.codewars.com/users/ivanlbdv)
