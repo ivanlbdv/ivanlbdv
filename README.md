@@ -3,6 +3,7 @@
 
 ### &#128736; Стек:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300758F.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ---
