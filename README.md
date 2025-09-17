@@ -39,12 +39,6 @@
 
 ---
 
-### GitHub Stats:
-
-[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
-
----
-
 ### Stats:
 
 #### Profile Stats:
