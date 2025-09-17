@@ -5,7 +5,7 @@
 
 ### Profile Summary:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
 
 ---
 
