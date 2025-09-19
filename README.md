@@ -23,7 +23,7 @@ Python-developer with experience in creating backend-solutions and working with 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ff0000.svg?style=for-the-badge&logo=yaml&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker-Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,9 +32,11 @@ Python-developer with experience in creating backend-solutions and working with 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%238FBC8F.svg?style=for-the-badge&logo=pytest&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23A52A2A.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -47,12 +49,12 @@ Python-developer with experience in creating backend-solutions and working with 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
 
 - ##### Profile Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
 
 - ##### Profile Summary:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanlbdv&theme=default)
 
 - ##### Codewars
-[![codewars](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
+[![Codewars](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
 
 ---
