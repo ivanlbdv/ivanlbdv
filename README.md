@@ -58,3 +58,5 @@ Python-developer with experience in creating backend-solutions and working with 
 [![Codewars](https://www.codewars.com/users/ivanlbdv/badges/large?theme=light)](https://www.codewars.com/users/ivanlbdv)
 
 ---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ivanlbdv)
