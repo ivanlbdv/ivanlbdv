@@ -35,6 +35,7 @@ Python-developer with experience in creating backend-solutions and working with 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%238FBC8F.svg?style=for-the-badge&logo=pytest&logoColor=ffffff)
+![Unittest](https://img.shields.io/badge/Unittest-2C3E50?style=for-the-badge&logo=python&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
