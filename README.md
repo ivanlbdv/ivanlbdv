@@ -1,3 +1,4 @@
+<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/50444cbd-42fa-487d-8a02-646b2f8b3f32" />
 <h1 align="center">
   Hi there, I'm Ivan 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
