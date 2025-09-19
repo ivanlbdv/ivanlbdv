@@ -50,7 +50,7 @@ Python-developer with experience in creating backend-solutions and working with 
 ### :fire: My Stats:
 
 - ##### Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv)](https://github.com/ivanlbdv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv&layout=compact)](https://github.com/ivanlbdv/github-readme-stats)
 
 - ##### Profile Stats:
 ![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ivanlbdv&theme=default)
