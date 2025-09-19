@@ -17,7 +17,7 @@
   </a>
 
   <a href="mailto:ivanlbdv@yandex.ru">
-    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail" />
   </a>
 </p>
 
