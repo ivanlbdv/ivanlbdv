@@ -1,8 +1,5 @@
 <img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/50444cbd-42fa-487d-8a02-646b2f8b3f32" />
-<!-- <h1 align="center">
-  Hi there, I'm Ivan 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> -->
-</h1> -->
+
 <p align="center">
   <a href="https://t.me/ivanlbdv">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
