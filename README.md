@@ -2,20 +2,10 @@
   Hi there, I'm Ivan 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<!-- <p align="center">
-  <a href="https://t.me/ivanlbdv">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="mailto:ivanlbdv@yandex.ru">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-  </a>
-</p> -->
 <p align="center">
   <a href="https://t.me/ivanlbdv">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
   <a href="mailto:ivanlbdv@yandex.ru">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail" />
   </a>
