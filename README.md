@@ -255,8 +255,8 @@ A personal finance management application.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanlbdv&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanlbdv&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ivanlbdv&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivanlbdv&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
